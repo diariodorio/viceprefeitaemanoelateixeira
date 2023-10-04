@@ -1,0 +1,1 @@
+window['_ttq_tt_seedtag'].push(['_setTTProfile','E:1|S:18.4.1695812400|G:1|U:73.2.16955,94.4.16958_niteroi_rio de janeiro_br_1695822966282_2970357872']);window['_ttq_tt_seedtag'].push(['_setProfile','']);window['_ttq_tt_seedtag'].push(['_cm']);
